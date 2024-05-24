@@ -1,0 +1,7 @@
+ <audio controls>
+  <source src="musica/06-MOTHER.MP3" type = "audio/mp3">
+  Tu navegador no soporta el elemento de audio.
+</audio>
+
+atributo:download="imagenes/curriculumVitae2.pdf"
+
